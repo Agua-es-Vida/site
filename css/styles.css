@@ -835,7 +835,7 @@ hr{
 .infos-text-h3{
 
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin-bottom: 75px;
     color: grey;
     padding: 0 40px;
@@ -1002,6 +1002,12 @@ hr{
 
     }
 
+    .footer-section-4-h3{
+
+        font-size: 1rem;
+
+    }
+
     .footer-section-4-img{
 
         width: 100%;
@@ -1160,7 +1166,7 @@ hr{
     .contact-infos-text{
 
 
-        padding: 10% 20%;
+        padding: 10% 15%;
 
     }
 
@@ -1172,9 +1178,43 @@ hr{
 
     .contact-section-left{
 
-        padding: 10% 20%;
+        padding: 10% 15%;
         text-align: center;
 
     }
+
+
+    /*  Schriftgrößen  */
+
+    p{
+
+        font-size: 1.4rem;
+
+    }
+
+    .infos-text-h3{
+
+        font-size: 1.4rem;
+
+    }
+
+    .footer-section-4-h3{
+
+        font-size: 1.4rem;
+
+    }
+
+    .contact-section-h1{
+
+        font-size: 8rem;
+
+    }
+
+    .contact-infos-text-h2{
+
+        font-size: 5rem;
+
+    }
+
 
 }
